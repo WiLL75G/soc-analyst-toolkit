@@ -177,6 +177,6 @@ PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). One rule: every tool must b
 
 <div align="center">
 
-Built and maintained by [@WilliamInCyber](https://github.com/WiLL75G) — detection engineering, in the trenches.
+Built and maintained by [@WilliamInCyber](https://github.com/WiLL75G) detection engineering, in the trenches.
 
 </div>
