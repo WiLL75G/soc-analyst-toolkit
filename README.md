@@ -130,7 +130,7 @@ Every entry here is something I use, have tested in a lab, or would reach for on
 
 | Tool | What it does | Lab |
 |------|--------------|-----|
-| [OpenVAS / Greenbone](https://www.greenbone.net/) | Open-source vulnerability scanning. | — |
+| [OpenVAS / Greenbone](https://www.greenbone.net/) | Open-source vulnerability scanning. | Lab |
 | [Nessus Essentials](https://www.tenable.com/products/nessus/nessus-essentials) | Free-tier industry vuln scanner. | — |
 | [Nuclei](https://github.com/projectdiscovery/nuclei) | Template-based fast vulnerability scanning. | — |
 | [Trivy](https://github.com/aquasecurity/trivy) | Container and IaC vulnerability scanning. | — |
@@ -157,7 +157,7 @@ Every entry here is something I use, have tested in a lab, or would reach for on
 
 | Resource | What it is | Lab |
 |----------|------------|-----|
-| [MITRE ATT&CK](https://attack.mitre.org/) | The adversary tactics and techniques knowledge base. | — |
+| [MITRE ATT&CK](https://attack.mitre.org/) | The adversary tactics and techniques knowledge base. | Lab |
 | [The DFIR Report](https://thedfirreport.com/) | Real intrusion writeups mapped to ATT&CK. | — |
 | [LOLBAS](https://lolbas-project.github.io/) | Living-off-the-land binaries abused by attackers. | — |
 | [GTFOBins](https://gtfobins.github.io/) | Unix binaries abused to bypass restrictions. | — |
