@@ -33,7 +33,7 @@ Every entry here is something I use, have tested in a lab, or would reach for on
 11. [Automation and SOAR](#11-automation-and-soar)
 12. [Purple Team and Adversary Emulation](#12-purple-team-and-adversary-emulation)
 13. [Reference and Learning](#13-reference-and-learning)
-14. [Git Workflow](./docs/git-workflow.md) three-state model, undo, and evidence handling in version control.
+14. [Git Workflow](./docs/git-workflow.md)
 
 ---
 
