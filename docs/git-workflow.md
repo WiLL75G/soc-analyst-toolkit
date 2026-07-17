@@ -64,7 +64,7 @@ The history. Read it as the story of the work.
 ### First time setup
 
 ```bash
-git config --global user.name "Julian Derry"
+git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
 
@@ -131,7 +131,7 @@ git commit -m "Add case study structure and README"
 ### Connect and push
 
 ```bash
-git remote add origin https://github.com/jderrydev-collab/windows-insider-threat-investigation.git
+git remote add origin https://github.com/WiLL75G/windows-insider-threat-investigation.git
 git branch -M main
 git push -u origin main
 ```
