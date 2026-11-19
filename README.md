@@ -44,6 +44,7 @@ Every entry here is something I use, have tested in a lab, or would reach for on
 | [Splunk](https://www.splunk.com/) | Industry-standard SIEM. SPL for search, dashboards, correlation searches. | 28-day SOC lab |
 | [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/) | Cloud-native SIEM/SOAR on Azure. KQL, analytics rules, workbooks. | sentinel-soc-lab |
 | [Wazuh](https://wazuh.com/) | Open-source SIEM/XDR with agent-based collection and built-in ruleset. | Wazuh SSH brute-force lab |
+| [Wazuh Alert Manager](https://github.com/xrisbarney/Wazuh-alert-manager) | Wazuh dashboard plugin: alert status/assignee/comments, cases with evidence and attack-path graph, automation rules. | — |
 | [Elastic Security (ELK)](https://www.elastic.co/security) | Elasticsearch, Logstash, Kibana. Detection rules and hunting. | — |
 | [Graylog](https://graylog.org/) | Open-source log management with streams, pipelines, alerting. | — |
 
